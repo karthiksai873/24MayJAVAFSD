@@ -1,0 +1,23 @@
+Hello Everyone, Just wanted to share some resources on Git and GitHub
+
+
+If anyone having some issues in understanding how git works or anyone wanting to brush up their git skills watch these videos on git...
+
+Git is one of the important thing you might encounter in your programming career and mastering it would help you a lot.
+
+1. https://youtu.be/WBg9mlpzEYU 
+
+2. https://youtu.be/Mfz8NQncwiQ
+
+3. https://youtu.be/hae9zg0-sZY
+
+4. https://youtu.be/dgOpnebZkRo
+5.https://www.youtube.com/watch?v=c0umchoMjhg
+6.https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+7.https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line
+
+
+
+These videos are from Scott Hanselman, he's a legend and doesn't really needs an introduction.
+
+Thanks.
